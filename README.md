@@ -4,7 +4,8 @@
 Each system is designed with a unique programming approach to demonstrate DSA (Data Structures & Algorithms) and OOP (Object-Oriented Programming) concepts.**
 
 🔹 1. Student Management System (DSA - Linked List)
-📌 Features:
+
+📌 **Features**:
 
 -Uses a singly linked list to store student records.
 
@@ -88,7 +89,9 @@ g++ oop_student_system.cpp -o oop_system
 ./dsa_system
 ./oop_system
 
-✨ Author-Muhammad Subhan
+👨‍💻 **Developer**
+
+Muhammad Subhan – Full-Stack Developer (in progress)
 
 This project was created for learning purposes to demonstrate different programming approaches in C++.
 It shows how the same "Student Management System" can be built in two different styles:
